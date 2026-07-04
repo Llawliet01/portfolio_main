@@ -15,21 +15,21 @@ const contacts = [
     label: 'LinkedIn',
     value: 'linkedin.com/in/yugpatel',
     action: 'Connect with me',
-    href: 'https://linkedin.com',
+    href: 'https://www.linkedin.com/in/yug-patel-595ba4264/',
   },
   {
     icon: '🧩',
     label: 'LeetCode',
     value: 'leetcode.com/yugpatel',
     action: 'See my solutions',
-    href: 'https://leetcode.com',
+    href: 'https://leetcode.com/u/patelyug01234/',
   },
   {
     icon: '💻',
     label: 'GitHub',
     value: 'github.com/yugpatel',
     action: 'View repositories',
-    href: 'https://github.com',
+    href: 'https://github.com/Llawliet01',
   },
   {
     icon: '📱',
@@ -43,7 +43,7 @@ const contacts = [
     label: 'GeeksforGeeks',
     value: 'geeksforgeeks.org/user/yugpatel',
     action: 'View profile',
-    href: 'https://geeksforgeeks.org',
+    href: 'https://www.geeksforgeeks.org/profile/patelyu0n4z',
   },
 ];
 
